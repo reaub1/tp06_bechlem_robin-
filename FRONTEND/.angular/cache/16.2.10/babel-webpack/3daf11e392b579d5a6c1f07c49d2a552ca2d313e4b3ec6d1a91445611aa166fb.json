@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: false,\n  backendLoginClient: '/api/utilisateur/login',\n  backendCatalogue: 'http://localhost:423/'\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

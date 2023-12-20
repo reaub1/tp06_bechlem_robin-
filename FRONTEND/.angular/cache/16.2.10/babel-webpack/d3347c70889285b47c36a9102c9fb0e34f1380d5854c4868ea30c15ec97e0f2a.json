@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: false,\n  backendLoginClient: 'https://tp05-bechlem-robin.onrender.com/api/utilisateur/login',\n  backendCatalogue: 'https://tp05-bechlem-robin.onrender.com/api/catalogue'\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
